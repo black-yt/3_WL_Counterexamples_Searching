@@ -28,7 +28,7 @@ If the 3-WL test result is "isomorphic", but the permutation test result is "non
 
 ### The correctness of the program:
 
-Since the following 2-WL counterexample exists in the icosahedron, change ***k_wl_test(A1, A2, 3)*** in line 126 of 20_3.py to ***k_wl_test(A1, A2, 2)***. Then run 20_3.py, and the program will output this counterexample, which means the program is correct.
+Since the following 2-WL counterexample exists in the icosahedron, change ***k_wl_test(A1, A2, 3)*** in line **126** of ***20_3.py*** to ***k_wl_test(A1, A2, 2)***. Then run ***20_3.py***, and the program will output this counterexample, which means the program is correct.
 
 ![1684166216761](image/1.png)
 
