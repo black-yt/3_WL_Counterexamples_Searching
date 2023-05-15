@@ -6,7 +6,7 @@ Search for counterexamples of 3-WL on Icosahedron and Dodecahedron
 
 ### 1. Generate 3D graphs:
 
-The program first selects **2** vertices in the dodecahedron, and then symmetrically obtains a 3D map of **4** vertices.
+The program first selects **2** vertices in the dodecahedron, and then symmetrically obtains a 3D graph of **4** vertices.
 
 ### 2. WL test:
 
